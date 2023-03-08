@@ -1,0 +1,11 @@
+
+
+--------------------------------------- 2021-04-20-14-55-56-674
+[verbose] bbgod_log: BamBoo God wake up.
+
+
+--------------------------------------- 2021-04-20-14-56-12-691
+[verbose] bbgod_log: BamBoo God wake up.
+[verbose] bbgod_log: Cue video -> /cue/VIDEO/LIGHT/OFF/
+[warning] bbgod_log: [Q] : received /cue/VIDEO/LIGHT/OFF/
+[warning] bbgod_log: [Q] : cue regex parser error!
